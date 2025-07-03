@@ -1,6 +1,6 @@
 # Industrial Level Calculator
 
-![Calculator Screenshot](screenshot.png) <!-- Add a screenshot later -->
+![Calculator Screenshot](screenshot.jpg) <!-- Add a screenshot later -->
 
 A web-based calculator for industrial measurements that calculates level percentage and span between values. Designed for process control engineers and technicians.
 
