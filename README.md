@@ -44,4 +44,4 @@ Alternatively, you can host it on any web server:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/industrial-level-calculator.git
+   git clone https://github.com/GlitchSyntax/industrial-level-calculator.git
